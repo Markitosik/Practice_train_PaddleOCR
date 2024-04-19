@@ -14,9 +14,8 @@
 
 ### Запуск:
     uvicorn api:app --reload 
-    ![Запуск](https://github.com/Markitosik/Practice_train_PaddleOCR/blob/master/Train/%D0%97%D0%B0%D0%BF%D1%83%D1%81%D0%BA.png)
+![Запуск](https://github.com/Markitosik/Practice_train_PaddleOCR/blob/master/Train/%D0%97%D0%B0%D0%BF%D1%83%D1%81%D0%BA.png)
 
-
-    ![Пример работы](https://github.com/Markitosik/Practice_train_PaddleOCR/blob/master/Train/%D0%A0%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%20API%201.png)
+![Пример работы](https://github.com/Markitosik/Practice_train_PaddleOCR/blob/master/Train/%D0%A0%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%20API%201.png)
 
     
